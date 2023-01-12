@@ -7,6 +7,9 @@ class App extends React.Component {
           from="FRANCIS"
           bangs= {14}
           />
+          <Hello
+          to="WORLD"
+          />
         <Guess/>
       </div>
     )

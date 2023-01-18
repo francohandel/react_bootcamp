@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>Create App has been successfully completed</p>
+        <p>{2*2}apples</p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -22,5 +23,4 @@ function App() {
     </div>
   );
 }
-
 export default App;

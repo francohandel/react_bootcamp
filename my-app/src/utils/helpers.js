@@ -1,5 +1,7 @@
 function choice (items) {
-  const randomIndex = Math.random() * items.length
+  console.log(items.length)
+  const randomIndex = Math.floor(Math.random() * items.length)
+  console.log(randomIndex, items[randomIndex])
   return items[randomIndex]
 }
 

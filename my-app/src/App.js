@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { choice, remove } from './utils/helpers'
 import fruits from './utils/fruits'

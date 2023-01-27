@@ -5,7 +5,7 @@ class Dog extends Component {
   render() {
     return (
       <div className="Dog">
-        Dog
+        This is a Sample Dog Component
       </div>
     )
   }

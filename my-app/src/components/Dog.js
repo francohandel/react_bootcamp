@@ -4,7 +4,7 @@ import './Dog.css'
 class Dog extends Component {
   render() {
     return (
-      <div className="Dog comp">
+      <div className="Dog">
         Dog
       </div>
     )
